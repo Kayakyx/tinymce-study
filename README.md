@@ -1,5 +1,8 @@
 # tinymce
 
+参照的时候请看 components/EditorTinymce.vue 和 pages/Edit.vue,其他的都是写错的。
+这两个文件里都有注释说明。
+
 ## Project setup
 ```
 npm install

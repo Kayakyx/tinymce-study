@@ -2,7 +2,11 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link>|
+      <router-link to="/tinymce">富文本</router-link>|
+      <router-link to="/tinymce4">富文本4</router-link>|
+      <router-link to="/tinymcevue">富文本vue</router-link>|
+      <router-link to="/edit">编辑</router-link>
     </div>
     <router-view/>
   </div>
